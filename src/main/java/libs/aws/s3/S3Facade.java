@@ -1,4 +1,4 @@
-package libs.integration.aws.s3;
+package libs.aws.s3;
 
 import java.io.File;
 import java.io.FileInputStream;
@@ -13,7 +13,7 @@ import com.amazonaws.services.s3.AmazonS3;
 import com.amazonaws.services.s3.AmazonS3ClientBuilder;
 import com.amazonaws.services.s3.model.ObjectMetadata;
 
-import libs.integration.aws.s3.util.Util;
+import libs.aws.s3.util.Util;
 
 /**
  * This class communicates with {@link S3RequestHandler} (or other components)

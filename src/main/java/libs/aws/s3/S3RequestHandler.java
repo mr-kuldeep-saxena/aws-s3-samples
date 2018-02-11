@@ -1,4 +1,4 @@
-package libs.integration.aws.s3;
+package libs.aws.s3;
 
 import java.io.File;
 import java.io.FileInputStream;

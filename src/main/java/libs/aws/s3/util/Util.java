@@ -1,4 +1,4 @@
-package libs.integration.aws.s3.util;
+package libs.aws.s3.util;
 
 /**
  * Some utility methods

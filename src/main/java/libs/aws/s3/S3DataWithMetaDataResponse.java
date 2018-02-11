@@ -1,4 +1,4 @@
-package libs.integration.aws.s3;
+package libs.aws.s3;
 
 import com.amazonaws.services.s3.model.ObjectMetadata;
 

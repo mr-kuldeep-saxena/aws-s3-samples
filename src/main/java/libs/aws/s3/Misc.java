@@ -1,4 +1,4 @@
-package libs.integration.aws.s3;
+package libs.aws.s3;
 
 import java.util.ArrayList;
 import java.util.Arrays;
